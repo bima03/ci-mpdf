@@ -1,6 +1,7 @@
 # CI-mPDF
-=========
-_Using mPDF 6.0_
+
+_Using mPDF 6.0._
+
 Easy Generate PDF's in CodeIgniter using library based on mPDF.
 
 Installation
